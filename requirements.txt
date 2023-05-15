@@ -1,0 +1,9 @@
+dlib
+face_recognition
+opencv-python
+opencv-contrib-python
+pickle
+scikit-learn
+pandas
+re
+pillow
